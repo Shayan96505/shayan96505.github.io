@@ -13,3 +13,7 @@ or contract work in Android app development.
 * Hello World: Android app
 
 ## Links
+
+* [LinkedIn](https://www.linkedin.com/in/shawn-golafshani-8027071b6/)
+
+* [GitHub](https://github.com/Shayan96505)
