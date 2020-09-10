@@ -17,7 +17,3 @@ or contract work in Android app development.
 * [LinkedIn](https://www.linkedin.com/in/shawn-golafshani-8027071b6/)
 
 * [GitHub](https://github.com/Shayan96505)
-
-> A blockquote indicates that the content is a quote, an e-mail being replied to, etc.
- > 
- > Every line (blank or not) of a blockquote begins with `>`, followed by a space.
