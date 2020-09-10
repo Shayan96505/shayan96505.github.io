@@ -8,9 +8,9 @@ or contract work in Android app development.
     
 ## Current projects
 
-* Hello World: Java console application
+* [Hello World: Java console application](https://github.com/Shayan96505/deep-dive-hello-world-ij)
 
-* Hello World: Android app
+* [Hello World: Android app](https://github.com/Shayan96505/android-hello-world)
 
 ## Links
 
