@@ -1,4 +1,4 @@
-##TLDR - A youtube into for you!
+## Too Long Didn't read - A personal youtube intro about me.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4OGIFVwTRWs?start=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
